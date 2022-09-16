@@ -1,0 +1,11 @@
+.array-bar{
+    background-color: aqua;
+    margin: 0 1px;
+    display: inline-block;
+    width: 3px;
+}
+
+.array-container{
+    position: absolute;
+    left: 100px;
+}
